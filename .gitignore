@@ -2,3 +2,4 @@ __pycache__/
 *.py[cod]
 mySite/mySite/settings/secret.py
 .idea/
+db.sqlite3
